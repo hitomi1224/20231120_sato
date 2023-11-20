@@ -105,7 +105,7 @@ a{
     color: #808080;
 }
 .about{
-    background-color: antiquewhite;
+    background-color: #DCDCDC;
 }
 .about_tag{
     font-family: 'Indie Flower', cursive;
@@ -181,7 +181,7 @@ a{
 .service_main_content-title{
     width: 30%;
     text-align: center;
-    margin: 10px auto 0;
+    margin: 20px auto 0;
     font-weight: bold;
     color: #fff;
 }
@@ -189,6 +189,7 @@ a{
     padding: 20px 40px;
     color: #fff;
     line-height: 24px;
+    font-size: 14px;
 }
 .service_main_content2{
     display: flex;
@@ -198,23 +199,26 @@ a{
     align-items: center;
 }
 .service_main_content2-img {
-    width: 50%;
+    width: 30%;
 }
 .service_main_content2-img img {
     width: 100%;
 }
 .service_main_content2-box{
     margin-top: 10px;
+    width: 70%;
 }
 .service_main_content2-title{
-    padding: 0 0 10px 10px;
+    margin-top: 10px;
+    padding: 0 10px 10px 20px;
     font-weight: bold;
     color: #fff;
 }
 .service_main_content2-text{
-    padding: 0 0 20px 10px;
+    padding: 0 10px 20px 20px;
     color: #fff;
     line-height: 24px;
+    font-size: 14px;
 }
 .service_main_content3 {
     display: flex;
@@ -225,7 +229,7 @@ a{
 }
 
 .service_main_content3-img {
-    width: 50%;
+    width: 30%;
 }
 
 .service_main_content3-img img {
@@ -234,21 +238,24 @@ a{
 
 .service_main_content3-box {
     margin-top: 10px;
+    width: 70%;
 }
 
 .service_main_content3-title {
-    padding: 0 0 10px 10px;
+    margin-top: 10px;
+    padding: 0 10px 10px 20px;
     font-weight: bold;
     color: #fff;
 }
 
 .service_main_content3-text {
-    padding: 0 0 20px 10px;
+    padding: 0 10px 20px 20px;
     color: #fff;
     line-height: 24px;
+    font-size: 14px;
 }
 .blog{
-    background-color: antiquewhite;
+    background-color: #DCDCDC;
     padding-bottom: 30px;
 }
 .blog_tag{
@@ -304,22 +311,22 @@ a{
     font-weight: bold;
     margin-bottom: 40px;
 }
-.blog_card_content-tag{
+.blog_card_content_tag{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 .blog_card_content-tag-date{
-    display: inline-block;
     font-size: 12px;
-    padding-right: 40px;
+    width: 30%;
 }
 .blog_card_content_tag-coachtech{
-    display: inline-block;
     font-size: 12px;
+    width: 30%;
+    padding-right: 10px;
 }
 .blog_page-btn{
     display: flex;
-    width: 10%;
+    width: 15%;
     border-radius: 30px;
     background-color: #fff;
     border: 1.5px solid #C71585;
@@ -363,7 +370,7 @@ th{
     text-align: left;
     vertical-align: middle;
     color: #808080;
-    background-color: antiquewhite;
+    background-color: #DCDCDC;
 }
 .name2{
     padding: 10px 0 5px 20px;
