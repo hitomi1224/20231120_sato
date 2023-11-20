@@ -132,10 +132,12 @@ a{
     width: 35%;
     line-height: 25px;
     padding: 20px 20px;
+    font-size: 16px;
     color: #808080;
 }
 .about_card-text2{
     margin-top: 20px;
+    font-size: 16px;
 }
 .about_card-img{
     width: 30%;
@@ -314,6 +316,7 @@ a{
 .blog_card_content_tag{
     display: flex;
     justify-content: space-between;
+    width: 85%;
 }
 .blog_card_content-tag-date{
     font-size: 12px;
